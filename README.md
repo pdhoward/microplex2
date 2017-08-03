@@ -12,7 +12,10 @@ Getting the server running on your local machine takes only a few steps:
 ## alpha testing stage
 
 1. set up twilio account with webhook api/sms to send texts
-2. curl http://localhost:3000/sms/chaos to trigger randowm text stream
+2. curl http://localhost:3000/sms/chaos to trigger random text stream
+
+## License and Use
+ [LICENSE](LICENSE.txt).
 
 ## Contributing
 
